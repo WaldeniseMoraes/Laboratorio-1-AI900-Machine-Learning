@@ -13,3 +13,53 @@ Conta do Azure: É necessário ter uma conta ativa no Microsoft Azure. Caso não
 Azure Machine Learning Studio: Acesso ao Azure Machine Learning Studio, onde serão executadas a maioria das etapas do desafio.
 
 Conhecimento Básico de Machine Learning: É útil ter conhecimentos básicos de machine learning e familiaridade com conceitos como conjunto de dados, modelo, treinamento e implantação.
+
+# Passos
+# 1. Configuração do Ambiente:
+
+1.1. Acessei o Azure Portal utilizando minhas credenciais.
+
+1.2. No portal, naveguei até o Azure Machine Learning Studio.
+
+2. Importação do Conjunto de Dados
+2.1. Importei o conjunto de dados fornecido para o Azure ML Studio.
+
+2.2. Explorei os dados para entender sua estrutura e características.
+
+# 3. Pré-processamento dos Dados:
+
+3.1. Realizei tarefas de pré-processamento, como limpeza de dados, preenchimento de valores ausentes e normalização, conforme necessário.
+
+# 4. Escolha do Algoritmo e Treinamento do Modelo:
+
+4.1. Escolhi um algoritmo de machine learning adequado com base na natureza do problema e nos dados disponíveis.
+
+4.2. Dividi os dados em conjuntos de treinamento e teste.
+
+4.3. Treinei o modelo usando o conjunto de treinamento.
+
+# 5. Avaliação do Modelo:
+
+5.1. Avaliei o desempenho do modelo usando métricas relevantes, como precisão, recall, F1-score, etc.
+
+5.2. Ajustei os parâmetros do modelo, se necessário, para melhorar o desempenho.
+
+# 6. Implantação do Modelo:
+
+6.1. Implantei o modelo treinado para que pudesse ser acessado externamente.
+
+6.2. Testei a implantação para garantir que estava funcionando conforme o esperado.
+
+# 7. Monitoramento e Manutenção:
+
+7.1. Estabeleci práticas de monitoramento para acompanhar o desempenho do modelo em produção.
+
+7.2. Realizei ajustes e manutenção conforme necessário para garantir que o modelo continuasse a fornecer resultados precisos.
+
+# Conclusão:
+
+Este passo a passo resume as etapas que segui para enfrentar o desafio do curso Azure Fundamentals, "Trabalhando com Machine Learning na Prática no Azure ML". Cada etapa foi cuidadosamente planejada e executada para alcançar os objetivos do desafio, desde a importação e pré-processamento dos dados até a implantação e manutenção do modelo de machine learning.
+
+
+
+
