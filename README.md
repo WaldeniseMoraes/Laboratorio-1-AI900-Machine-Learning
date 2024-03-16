@@ -21,7 +21,8 @@ Conhecimento Básico de Machine Learning: É útil ter conhecimentos básicos de
 
 1.2. No portal, naveguei até o Azure Machine Learning Studio.
 
-2. Importação do Conjunto de Dados
+# 2. Importação do Conjunto de Dados:
+
 2.1. Importei o conjunto de dados fornecido para o Azure ML Studio.
 
 2.2. Explorei os dados para entender sua estrutura e características.
