@@ -14,7 +14,37 @@ Azure Machine Learning Studio: Acesso ao Azure Machine Learning Studio, onde ser
 
 Conhecimento Básico de Machine Learning: É útil ter conhecimentos básicos de machine learning e familiaridade com conceitos como conjunto de dados, modelo, treinamento e implantação.
 
+# Detalhes do Experimento:
+
+Nome do Experimento: mslearn-bike-rental
+Nome do Trabalho: mslearn-bike-automl
+Tipo de Trabalho: ML automatizado
+Criado por: Waldenise Moraes
+Status: Concluído
+Duração Total: 20min 56.10s
+
+# Resultados do Experimento:
+
+Algoritmos Utilizados: RandomForest, LightGBM, VotingEnsemble
+Pré-processadores Utilizados: MaxAbsScaler
+Métricas de Desempenho:
+Iteração 1: Score = 0.0984
+Iteração 2: Score = 0.0936
+Iteração 3: Score = 0.0884
+ID do Pipeline do Melhor Modelo: b76be6b5846772ee1128c4d415381c1e9fed455e (AutoML_Ensemble)
+
+# Observações e Ações Futuras:
+
+Os resultados mostram que o modelo de ensemble (VotingEnsemble) teve o melhor desempenho, com uma pontuação de 0.0884.
+Pode ser útil explorar mais detalhadamente o desempenho de cada modelo individual (RandomForest, LightGBM) para entender melhor suas características.
+
+É importante considerar a interpretabilidade do modelo, especialmente se for necessário explicar as previsões para partes interessadas não técnicas.
+
+Deve-se também avaliar se o desempenho do modelo atende aos requisitos específicos do problema de negócios em questão.
+Com base nessas informações, é possível refazer análises adicionais e ajustar o modelo conforme necessário para melhorar ainda mais seu desempenho ou adaptá-lo às necessidades específicas do cenário de uso.
+
 # Passos
+
 # 1. Configuração do Ambiente:
 
 1.1. Acessei o Azure Portal utilizando minhas credenciais.
