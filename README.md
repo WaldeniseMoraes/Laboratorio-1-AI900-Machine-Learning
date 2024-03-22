@@ -17,20 +17,31 @@ Conhecimento Básico de Machine Learning: É útil ter conhecimentos básicos de
 # Detalhes do Experimento:
 
 Nome do Experimento: mslearn-bike-rental
+
 Nome do Trabalho: mslearn-bike-automl
+
 Tipo de Trabalho: ML automatizado
+
 Criado por: Waldenise Moraes
+
 Status: Concluído
+
 Duração Total: 20min 56.10s
 
 # Resultados do Experimento:
 
 Algoritmos Utilizados: RandomForest, LightGBM, VotingEnsemble
+
 Pré-processadores Utilizados: MaxAbsScaler
+
 Métricas de Desempenho:
+
 Iteração 1: Score = 0.0984
+
 Iteração 2: Score = 0.0936
+
 Iteração 3: Score = 0.0884
+
 ID do Pipeline do Melhor Modelo: b76be6b5846772ee1128c4d415381c1e9fed455e (AutoML_Ensemble)
 
 # Observações e Ações Futuras:
